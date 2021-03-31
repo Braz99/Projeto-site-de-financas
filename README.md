@@ -1,2 +1,2 @@
 # Projeto site de financas
- Site básico de finanças só em html
+ Site básico de finanças com bootstrap e Fontawesome.
